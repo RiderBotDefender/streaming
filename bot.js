@@ -5,7 +5,7 @@ const client = new Discord.Client();
 
 
 client.on('ready', () => {
-    client.user.setGame(`حياتي تعس, في نحس`, "http://twitch.tv/Streammingg")	
+    client.user.setGame('حياتي تعيسة ما بقى لي شي اسويه')	
 });
 
 
